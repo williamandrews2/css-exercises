@@ -1,0 +1,19 @@
+p {
+    background-color: lightpink;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#third {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
