@@ -1,0 +1,13 @@
+.darkbutton{
+    background-color: black;
+    color: white;
+}
+
+.lightbutton{
+    background-color: yellow;
+}
+
+.lightbutton, .darkbutton {
+    font-size: 28px;
+    font: "Helvetica", "Times New Roman", sans-serif;
+}
